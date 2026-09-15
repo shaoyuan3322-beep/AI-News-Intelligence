@@ -1,2 +1,2 @@
-# AI-News-Intelligence
-AI-powered news intelligence workflow for multi-source collection, filtering, analysis and structured output.
+# AI 新闻情报平台
+面向多信息源采集、筛选、去重、AI 分析与结构化输出的新闻情报工作流。
